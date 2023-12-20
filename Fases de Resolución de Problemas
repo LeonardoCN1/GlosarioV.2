@@ -1,0 +1,42 @@
+Entender el Problema:
+  Comprender completamente los requisitos del problema.
+  Identificar las entradas y salidas esperadas.
+  Definir los límites y restricciones del problema.
+
+Planificación y Diseño:
+  Elegir la estrategia de resolución de problemas.
+  Diseñar la estructura general del programa.
+  Descomponer el problema en partes más pequeñas (descomposición modular).
+  Seleccionar algoritmos y estructuras de datos apropiadas.
+
+Codificación:
+  Traducir el diseño en código.
+  Escribir y organizar el código de manera clara y legible.
+  Utilizar buenas prácticas de codificación.
+
+Pruebas:
+  Probar el programa con diferentes conjuntos de datos.
+  Verificar si el programa produce resultados correctos.
+  Identificar y corregir posibles errores.
+
+Depuración:
+  Localizar y corregir errores (bugs) en el código.
+  Utilizar herramientas de depuración para facilitar el proceso.
+
+Optimización:
+  Mejorar el rendimiento del programa si es necesario.
+  Optimizar algoritmos o estructuras de datos para lograr eficiencia.
+  
+Documentación:
+  Crear documentación clara y completa.
+  Explicar el propósito, el funcionamiento y el uso del programa.
+
+Implementación:
+  Integrar el programa en el entorno o sistema deseado.
+  Asegurarse de que todos los requisitos del sistema se cumplan.
+
+Mantenimiento:
+  Realizar actualizaciones y correcciones según sea necesario.
+  Mejorar o añadir funcionalidades según los cambios en los requisitos.
+
+Estas fases no son necesariamente lineales y pueden involucrar iteraciones. A menudo, los programadores regresan a fases anteriores según sea necesario durante el proceso de desarrollo.
