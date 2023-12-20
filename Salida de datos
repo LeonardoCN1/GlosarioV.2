@@ -1,0 +1,37 @@
+La salida de datos es el último proceso, en el que se muestra información o resultados en
+un dispositivo o medio de comunicación. La forma en la que se realiza la salida 
+varía dependiendo el lenguaje de programación que utiicemos, por ejemplo:
+En Python usamos la función "print()" para imprimir los resultados de la consola.
+nombre = "Juan"
+edad = 25
+print("Nombre: ", nombre)
+print("Edad: ", edad)
+
+En Java usamos la función "system.out.println()" para imrpimir los resultados.
+String nombre = "Juan";
+int edad = 25;
+System.out.println("Nombre: " + nombre);
+System.out.println("Edad: " + edad);
+
+En C++ usamos la función "std::cout" para imprimir los resultados.
+#include <iostream>
+using namespace std;
+int main() {
+    string nombre = "Juan";
+    int edad = 25
+    cout << "Nombre: " << nombre << endl;
+    cout << "Edad: " << edad << endl;
+    return 0;
+}
+
+En JavaScript usamos la función "console.log()" para imprimir los resultados del
+navegador o del entorno Node.js.
+let nombre = "Juan";
+let edad = 25;
+console.log("Nombre: ", nombre);
+console.log("Edad: ", edad);
+
+
+La salida de los datos puede variar en complejidad dependiendo de qué se desea mostrar.
+Aparte de imprimir valores directos, también se puede formatear la salida, imprimir 
+en archivos, enviar datos a través de una red, etc.
