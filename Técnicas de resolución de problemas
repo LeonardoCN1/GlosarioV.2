@@ -1,0 +1,17 @@
+Son enfoques y estrategias fundamentales para abordar desafíos de manera efectiva durante el desarrollo de software. Una de las principales metodologías es el análisis sistemático, que implica examinar a fondo el problema para comprender sus componentes esenciales y las relaciones entre ellos.
+La descomposición de problemas en partes más manejables es otra técnica clave. Además, el uso de patrones de diseño, que son soluciones probadas y eficientes para problemas comunes, proporciona una guía estructurada para el diseño de software.
+
+La resolución de problemas en programación es un proceso que implica varios pasos:
+
+1.	Definición del problema: Comprender claramente el problema que estás tratando de resolver.
+2.	Análisis del problema: Comprender los requisitos del problema, los datos de entrada y salida esperados y cualquier restricción que debas considerar.
+3.	Descomposición del problema: Dividir el problema en partes más pequeñas y manejables.
+4.	Diseño o desarrollo de un algoritmo: Diseñar el algoritmo que resolverá el problema de manera eficiente. Un algoritmo es una secuencia de pasos que describe la solución de manera clara y detallada.
+5.	Selección de estructuras de control: Las estructuras de control, como bucles y condicionales, son herramientas esenciales para guiar el flujo de ejecución de un programa.
+6.	Transformación del algoritmo en un programa (codificación).
+7.	Ejecución y validación del programa.
+
+Es importante recordar que la resolución de problemas en programación es un proceso iterativo. Es normal encontrarse con desafíos y enfrentar errores a lo largo del camino. Sin embargo, cada error es una oportunidad de aprendizaje.
+
+También una de las técnicas se un diagrama de flujo que es una representación grafica de un algoritmo o proceso. Estos diagramas utilizan símbolos con significados bien definidos que representan los pasos del algoritmo y representan el flujo de ejecución mediante flechas que conectan los puntos de inicio y fin.
+
