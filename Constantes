@@ -1,0 +1,38 @@
+son valores que no cambian durante la ejecución de un programa. Estos valores se utilizan para representar información fija y no modificable, como configuraciones específicas, parámetros fundamentales o valores universales. 
+Características de las Constantes:
+Inmutabilidad: tienen un valor fijo que no se altera.
+Convenciones de Nomenclatura: En muchos lenguajes de programación, las constantes se nombran utilizando letras mayúsculas y guiones bajos para separar palabras. Esto ayuda a distinguir las constantes de las variables y facilita la lectura del código.
+VELOCIDAD_LUZ = 299792458  # Ejemplo de constante en Python que representa la velocidad de la luz en metros por segundoValores Universalmente Conocidos: Las constantes a menudo se utilizan para representar valores que son universalmente conocidos y no cambian, como las constantes matemáticas (pi, e), conversiones de unidades, o valores físicos fundamentales.
+PI = 3.14159
+GRAVEDAD_TIERRA = 9.8
+Enfoque en la Legibilidad y Mantenimiento:
+Al dar nombres descriptivos a las constantes, el código se vuelve más comprensible y menos propenso a errores. Además, si se necesita cambiar un valor constante en el futuro, solo se debe hacer en un lugar, facilitando la actualización del programa.
+Implementación en Lenguajes de Programación:
+En algunos lenguajes de programación, como Java y C++, se pueden declarar constantes de manera explícita utilizando palabras clave específicas (por ejemplo, ´final´ en Java o ´const´ en C++). Estos lenguajes ofrecen una forma de garantizar la inmutabilidad de las constantes.
+Ejemplo en Java:
+public class Constantes {
+    public static final double PI = 3.14159;
+    public static final int DIAS_EN_SEMANA = 7;
+}
+Esto asegura que las variables marcadas como final no puedan ser modificadas después de su inicialización. Aunque en Python no hay una implementación directa de constantes, la convención de nomenclatura mencionada anteriormente se utiliza para indicar que ciertos valores no deben modificarse durante la ejecución del programa.
+
+¿Qué es una constante en programación?
+Una constante es un valor que se establece en una sección del código y permanece constante durante la ejecución del programa. A diferencia de las variables, las constantes no cambian de valor mientras el programa está en funcionamiento. Las constantes se utilizan para asegurar que un valor crítico permanezca inalterable y no pueda ser modificado accidentalmente o intencionalmente. En programación dato que no cambia su valor.
+Básicamente las constantes son un valor fijo que no cambia durante la ejecución del programa. Las constantes son utilizadas en programas para evitar errores, asegurando que ciertas variables y valores permanezcan inalterables.
+
+Ejemplos de constantes en programación
+
+Veamos algunos ejemplos de constantes en diferentes lenguajes de programación:
+•	En C++, se puede definir una constante de la siguiente forma:
+const int PI = 3.14159;
+En este caso, PI es una constante y su valor es 3.14159.
+•	En Java, se define una constante utilizando la palabra clave «final». Por ejemplo:
+final int NUMERO_MAXIMO = 100;
+En este caso, NUMERO_MAXIMO es una constante y su valor es 100.
+•	En Python, se puede definir una constante utilizando una variable con mayúsculas. Por ejemplo:
+PI = 3.14159
+En este caso, PI es una constante y su valor es 3.14159.
+•	En PHP, se define una constante utilizando la función «define». Por ejemplo:
+define(«PI», 3.14159);
+En este caso, PI es una constante y su valor es 3.14159.
+
