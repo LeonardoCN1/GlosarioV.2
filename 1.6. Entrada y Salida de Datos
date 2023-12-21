@@ -1,0 +1,6 @@
+1.6. Entrada y Salida de Datos
+Cualquier programa informático debe comunicarse con los usuarios, tanto para recibir la información de entrada como para devolver los resultados de su ejecución. Esto es lo que se conoce con el nombre de procesos de entrada y salida de datos.
+Un programa está compuesto por un bloque de declaraciones y otro de instrucciones. El bloque de instrucciones está formado por tres partes, podemos localizarlas según su función:
+Entrada de datos: instrucciones que almacenan en la memoria interna datos procedentes de un dispositivo externo (teclado, ratón,...)
+Proceso o algoritmo: instrucciones que modifican los objetos de entrada y, en ocasiones, crean otros nuevos.
+Salida de resultados: conjunto de instrucciones que toman los datos finales de la memoria interna y los envían a los dispositivos externos (pantallas o dispositivos de almacenamiento).
