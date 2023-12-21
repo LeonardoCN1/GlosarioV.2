@@ -1,0 +1,21 @@
+La conversion de tipos de datos tambien conocida como "cast" o "type casting" es
+la accion de cabiar un tipo de dato a otro. El método para utilizar el cast
+depende de cada lenguaje de programación. Estas transformaciones son utiles y necesarias 
+cuando se trabaja con diferentes tipos de datos y se necesita que un valor tenga un formato 
+o estructura particular, de tal manera se pueda seguir con las operaciones especificas.
+Estas operaciones puden ser genradas autamaticamente por el lenguaje de programación, o
+explicitamente por el programador.
+Ejemplo.
+Para Python:
+Conversión de cadena a entero
+cadena_numero = "123"
+numero = int(cadena_numero)
+
+Conversión de entero a cadena
+numero = 456
+cadena_numero = str(numero)
+
+Conversión de número a punto flotante
+entero = 789
+flotante = float(entero)
+
