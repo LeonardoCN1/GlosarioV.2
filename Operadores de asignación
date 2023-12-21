@@ -1,0 +1,10 @@
+Son aquellos que nos permiten realizar una operación y almacenar su resultado en una variable y se realiza de derecha a izquierda; ejemplos:
+OPERADOR = : Se encarga de asignar a la variable de la izquierda el contenido de la derecha.
+OPERADOR += : Suma el valor de su derecha a la variable de la izquierda y lo asigna en la izquierda.
+OPERADOR -= : Resta y guarda el resultado en la variable inicial.
+OPERADOR *= : Multiplica el valor de una variable por el de una expresión y el resultado lo guarada en la variable.
+OPERADOR /= : Divide el valor de una variable por el de una expresión y adigna el resultado de punto flotante en la varible.
+OPERADOR %= : Divide el valor de dos variables y almacena su redultado en la primera.
+OPERADOR & : Realiza la comparación de bit a bit entre dos variables y su resultado lo aigna en la primera.
+OPERADOR ^= : Eleva el resultado de una variable a una potencia y lo gaurda en la variable.
+OPERADOR <<= : Realiza un desplazmiento aritmético a la izquierda del valor de una variable y lo guarda en la variable.
