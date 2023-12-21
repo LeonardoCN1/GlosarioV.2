@@ -1,0 +1,47 @@
+Son herramientas para modelar datos y operaciones de manera efectiva.
+Algunas técnicas son:
+
+  Diagramas de Flujo:
+
+Representaciones gráficas que usan formas geométricas para representar diferentes pasos o procesos.
+Cada forma representa una acción específica (por ejemplo, rectángulos para procesos, rombos para decisiones, etc.).
+Mientras que flechas indican la secuencia de ejecución.
+
+  Pseudocódigo:
+
+Usa lenguaje simple y estructurado que se a}parece al código fuente real.
+No está relacionado a un lenguje de progrmacion, pero ayuda a expresar la lógica del
+algoritmo antes de implementarlo en un lenguaje de programación.
+
+  Diagramas de Estructuras:
+
+Representan la estructura de datos y cómo interactúan los diferentes elementos.
+Pueden incluir representaciones gráficas de arrays, listas, árboles, grafos, etc.
+
+  Tablas y Matrices:
+
+Utilizan tablas y matrices para organizar datos y visualizar relaciones entre diferentes elementos.
+Es útil para algoritmos que involucran datos tabulares o estructuras bidimensionales.
+
+  Grafos:
+
+Representar el flujo de control o relaciones entre entidades utilizando grafos.
+Los nodos representan estados o eventos, y las aristas indican las transiciones o relaciones entre ellos.
+
+  Árboles:
+
+Los árboles se utilizan para representar jerarquías y relaciones de parentesco entre elementos.
+Son útiles para estructuras de datos como árboles de búsqueda binaria o árboles de expresión.
+
+  Modelado de Datos:
+
+Utilizar estructuras de datos para representar información de manera clara y eficiente.
+Por ejemplo, utilizar listas enlazadas, arreglos, pilas o colas según las necesidades del algoritmo.
+
+  Modelos Matemáticos:
+
+Desarrollar ecuaciones matemáticas que describan el comportamiento del algoritmo.
+  
+Al diseñar algoritmos, es crucial elegir la técnica de representación más apropiada según el problema 
+y los requisitos específicos. A menudo, es útil combinar varias técnicas para obtener una comprensión más
+completa y efectiva del algoritmo que estás desarrollando.
