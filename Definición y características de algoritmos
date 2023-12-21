@@ -1,0 +1,35 @@
+Definición:
+Un algoritmo es un conjunto ordenado y finito de pasos o reglas definidas que describe cómo realizar una tarea o resolver un problema en particular. Los algoritmos son esenciales en la informática y otras disciplinas para lograr la automatización y la ejecución eficiente de procesos.
+
+Características de los Algoritmos:
+
+Finitud:
+
+Un algoritmo debe estar compuesto por un número finito de pasos. Debe finalizar después de ejecutar un número determinado de instrucciones.
+Precisión:
+
+Cada paso del algoritmo debe ser claro, preciso y sin ambigüedades. Las instrucciones deben ser entendibles y no dar lugar a interpretaciones diversas.
+Entrada:
+
+Un algoritmo puede recibir cero o más entradas. Estas entradas son los datos sobre los cuales el algoritmo opera para producir un resultado.
+Salida:
+
+Un algoritmo debe generar al menos una salida. La salida es el resultado o solución del problema para el cual se diseñó el algoritmo.
+Eficiencia:
+
+Los buenos algoritmos deben ser eficientes en términos de uso de recursos, como tiempo y espacio. Deben realizar la tarea de manera rápida y utilizando la menor cantidad posible de recursos.
+Determinismo:
+
+Un algoritmo debe ser determinista, lo que significa que, dado un conjunto particular de entradas, siempre producirá la misma salida. No debe haber lugar para la aleatoriedad en un algoritmo determinista.
+Generalidad:
+
+Un algoritmo debe ser lo suficientemente general como para aplicarse a una variedad de instancias del problema para el cual fue diseñado. Debe ser adaptable y no limitarse a casos específicos.
+Descomposición:
+
+La descomposición es el principio de dividir un problema grande en subproblemas más pequeños y manejables. Cada subproblema se resuelve por separado utilizando un algoritmo específico.
+Orden:
+
+Los pasos del algoritmo deben estar ordenados de manera lógica. La secuencia de operaciones debe seguir un flujo lógico y coherente.
+Claridad:
+
+La descripción del algoritmo debe ser clara y comprensible para cualquier persona que esté familiarizada con el problema. La claridad facilita la implementación y la comprensión del algoritmo.
